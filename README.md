@@ -7,7 +7,7 @@
 [<p align="center"><img src="https://img.shields.io/travis/kms0219kms/New_Entry2Exe.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/kms0219kms/New_Entry2Exe) [<img src="https://img.shields.io/github/downloads/kms0219kms/New_Entry2Exe/total.svg?style=for-the-badge" alt="downloads">](https://github.com/kms0219kms/New_Entry2Exe/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
 
 ## Tutorial
-[![Tutorials](http://img.youtube.com/vi/JoywV6YmlKI/0.jpg)](http://www.youtube.com/watch?v=JoywV6YmlKI "[4K] [Tip! Tip! Tip!] 엔트리(ent) 파일을 실행 파일(exe)로 간단하게 변환하기 [2차 개정판]")
+[![Tutorials](http://img.youtube.com/vi/JoywV6YmlKI/maxresdefault.jpg)](http://www.youtube.com/watch?v=JoywV6YmlKI "[4K] [Tip! Tip! Tip!] 엔트리(ent) 파일을 실행 파일(exe)로 간단하게 변환하기 [2차 개정판]")
 
 ## Downloads
 
