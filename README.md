@@ -6,6 +6,9 @@
 
 [<p align="center"><img src="https://img.shields.io/travis/kms0219kms/New_Entry2Exe.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/kms0219kms/New_Entry2Exe) [<img src="https://img.shields.io/github/downloads/kms0219kms/New_Entry2Exe/total.svg?style=for-the-badge" alt="downloads">](https://github.com/kms0219kms/New_Entry2Exe/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
 
+## Tutorial
+[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JoywV6YmlKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>](https://youtu.be/JoywV6YmlKI)
+
 ## Downloads
 
 You can download from [GitHub Releases](https://github.com/kms0219kms/New_Entry2Exe/releases)
